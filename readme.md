@@ -36,7 +36,7 @@ For a more in-depth comparison of these tools, please see our [Google Spreadshee
 - [NewsDiffs][]. [code][newsdiffs-code]
 - [NYTdiff][]. [code][nytdiff-code]
 - [Pagelyzer][]. [code][pagelyzer-code]
-- [Time Machine][]. [code][timemachine-code]. Also a hosted service.
+- [Time Machine][timemachine-code]
 - [Website Change Monitor][website-change-monitor].
 
 
@@ -47,16 +47,15 @@ Closed source unless indicated otherwise.
 - [Distill][]
 - Distill Web Monitor browser extension. [Chrome][distill-chrome] - [Firefox][distill-ff]. (Formerly Alertbox.)
 - [changed.online][]
-- [ChangeDetect][]
+- [ChangeFlow][] (Fomerly [Trackly])
 - [changedetection.io][]. Also available under the Apache License (2.0).
 - [ChangeTower][]
+- [Fluxguard][] (Formerly [Versionista][])
 - [Follow That Page][]
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
 - [TheWebWatcher][] :beer:
-- [Trackly][]
-- [Versionista][]
 - [VisualPing][] Has [chrome browser extension][visualping-chrome].
 - [Wachete][]
 - [WatchThatPage][]
@@ -83,7 +82,9 @@ related or neighboring rights to this work.
    [klaxon-code]: https://github.com/themarshallproject/klaxon
    [pagelyzer]: http://pagelyzer.openpreservation.org/
    [pagelyzer-code]: https://github.com/openpreserve/pagelyzer
-   [trackly]: https://trackly.io/
+   [changeflow]: https://changeflow.com/
+   [trackly]: https://trackly.io/stay
+   [fluxguard]: https://fluxguard.com/
    [versionista]: https://versionista.com/
    [visualping]: https://visualping.io/
    [visualping-chrome]: https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd
@@ -92,7 +93,7 @@ related or neighboring rights to this work.
    [pagecrawl]: https://pagecrawl.io/
    [pagefreezer]: https://www.pagefreezer.com/
    [diffengine]: https://github.com/DocNow/diffengine
-   [nytdiff]: https://twitter.com/nyt_diff
+   [nytdiff]: https://bsky.app/profile/nytdiff.bsky.social
    [nytdiff-code]: https://github.com/j-e-d/NYTdiff
    [onwebchange]: https://onwebchange.com/
    [thewebwatcher]: http://www.thewebwatcher.com/
@@ -105,11 +106,9 @@ related or neighboring rights to this work.
    [wachete]: https://www.wachete.com/
    [spreadsheet]: https://docs.google.com/spreadsheets/d/1TqKX1PA2eOszLgb8Vejw5GPe4STJkHWFe2_IUa3t5gM/edit#gid=0
    [distill]: https://distill.io/
-   [distill-ff]: https://addons.mozilla.org/en-us/firefox/addon/alertbox/
+   [distill-ff]: https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/
    [distill-chrome]: https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en
    [edgi-webmon]: https://github.com/edgi-govdata-archiving/web-monitoring
-   [ChangeDetect]: http://www.changedetect.com/
-   [Time Machine]: http://timemachine.truthmeter.mk
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
